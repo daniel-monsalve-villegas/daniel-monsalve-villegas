@@ -1,6 +1,6 @@
 ![Profile photo](https://res.cloudinary.com/dmm6onkzz/image/upload/v1679066339/github_wys0wc.png)
-<h1 align="center">Hi 👋, I'm Daniel Monsalve</h1>
-<h3 align="center">Fullstack Developer</h3>
+<h1 align="center">Hi <img src="https://media.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" style="width: 50px;">, I'm Daniel Monsalve <img src="https://media.tenor.com/9LLhY-WtfbcAAAAi/afas-software-afas.gif" style="width: 50px;"> <!--👨‍💻--> </h3>
+<h3 align="center">Fullstack Developer focus in Frontend Development</h3>
 
 👯 I’m looking to collaborate on **projects who help people to get better services and experiences on the web**
 
