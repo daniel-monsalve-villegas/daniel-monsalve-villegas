@@ -1,4 +1,4 @@
-![Profile photo](../../profesional/github.png)
+![Profile photo](https://res.cloudinary.com/dmm6onkzz/image/upload/v1679066339/github_wys0wc.png)
 <h1 align="center">Hi 👋, I'm Daniel Monsalve</h1>
 <h3 align="center">Fullstack Developer</h3>
 
