@@ -1,9 +1,10 @@
+![Profile photo](../../profesional/github.png)
 <h1 align="center">Hi 👋, I'm Daniel Monsalve</h1>
-<h3 align="center">Frontend Developer</h3>
+<h3 align="center">Fullstack Developer</h3>
 
-- 👯 I’m looking to collaborate on **projects who help people to get better services and experiences on the web**
+👯 I’m looking to collaborate on **projects who help people to get better services and experiences on the web**
 
-- 📫 How to reach me **monsalvedanielv@gmail.com**
+ 📫 How to reach me **monsalvedanielv@gmail.com**
 
 - ⚡ Fun fact **I'm into livecoding art experiences**
 
