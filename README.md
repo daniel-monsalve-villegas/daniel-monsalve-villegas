@@ -7,5 +7,3 @@
   <a href="mailto:monsalvedanielv@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=black&color=white" alt="gmail link"></a>
   <a href="https://www.linkedin.com/in/daniel-monsalve-villegas/" rel="noopener noreferrer" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black&color=white" alt="linkedin link"></a>
 </div>
-
-https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-monsalve-villegas
